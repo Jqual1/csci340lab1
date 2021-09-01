@@ -1,2 +1,22 @@
-.row { font-family: 'Righteous', cursive; }
-#first { font-family: 'IBM Plex Serif', serif; }
+h1{
+  margin: 20px;
+  padding: 5px;
+  background-color: #ee7788;
+  font-family: 'Righteous', cursive;
+}
+h3{
+  text-align: center;
+}
+#first {
+  margin: 20px;
+  padding: 5px;
+  background-color: turquoise;
+  font-family: 'IBM Plex Serif', serif;
+}
+.middle{
+  align-items: center;
+  margin: 20px;
+  padding: 5px;
+  background-color: orange;
+  font-family: 'Righteous', cursive;
+}
