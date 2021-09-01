@@ -7,6 +7,7 @@ h3{
   text-align: center;
 }
 #first {
+  margin-top: 5px;
   margin-bottom: 10px;
   padding: 15px;
   background-color: turquoise;
@@ -14,8 +15,8 @@ h3{
 }
 .middle{
   align-items: center;
-  margin: 20px;
-  padding: 5px;
+  margin: 10px;
+  padding: 10px;
   background-color: orange;
   font-family: 'Righteous', cursive;
 }
